@@ -34,15 +34,15 @@ Team's ticket system is: ServiceNow
 
 For every named project, it-delivery-readiness-assistant will assume the following default structure:
 
-- Initiative/
-    - Epic/
-        -Feature/
-            - Spike/
-                - Task/
-            - Tech Story/
-                - Task/
-            - User Story/
-                - Task/
+- Initiative
+    - Epic
+        -Feature
+            - Spike
+                - Task
+            - Tech Story
+                - Task
+            - User Story
+                - Task
 
 Example:
 
