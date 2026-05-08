@@ -4,7 +4,7 @@ description: This skill should be used when the user wants to support Scrum or A
 author: German Milla
 ---
 
-# it-delivery-readiness-assistant - Requirements Refinement and Delivery Readiness
+# it-delivery-readiness-assistant
 
 ## Purpose: 
 
